@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-12T13:05:15 IST" name="Default suite" finished-at="2022-07-12T13:05:17 IST" duration-ms="1794">
+    <groups>
+    </groups>
+    <test started-at="2022-07-12T13:05:15 IST" name="Default test" finished-at="2022-07-12T13:05:17 IST" duration-ms="1794">
+      <class name="practiceonlyrevenue.flipkartHomepage_Test">
+        <test-method is-config="true" signature="setup()[pri:0, instance:practiceonlyrevenue.flipkartHomepage_Test@15eb5ee5]" started-at="2022-07-12T13:05:06 IST" name="setup" finished-at="2022-07-12T13:05:15 IST" duration-ms="9055" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:practiceonlyrevenue.flipkartHomepage_Test@15eb5ee5]" started-at="2022-07-12T13:05:15 IST" name="beforeMethod" finished-at="2022-07-12T13:05:15 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="tes2t()[pri:0, instance:practiceonlyrevenue.flipkartHomepage_Test@15eb5ee5]" started-at="2022-07-12T13:05:16 IST" name="tes2t" finished-at="2022-07-12T13:05:16 IST" duration-ms="228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tes2t -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:practiceonlyrevenue.flipkartHomepage_Test@15eb5ee5]" started-at="2022-07-12T13:05:16 IST" name="beforeMethod" finished-at="2022-07-12T13:05:16 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="test()[pri:0, instance:practiceonlyrevenue.flipkartHomepage_Test@15eb5ee5]" started-at="2022-07-12T13:05:16 IST" name="test" finished-at="2022-07-12T13:05:16 IST" duration-ms="268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:practiceonlyrevenue.flipkartHomepage_Test@15eb5ee5]" started-at="2022-07-12T13:05:16 IST" name="quit" finished-at="2022-07-12T13:05:17 IST" duration-ms="1184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- practiceonlyrevenue.flipkartHomepage_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
